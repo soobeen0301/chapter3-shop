@@ -4,7 +4,7 @@ import productsRouter from './src/routers/products.router.js';
 import dotenv from 'dotenv';
 
 const app = express();
-const PORT = 3000;
+const PORT = 3001;
 
 connect();
 
